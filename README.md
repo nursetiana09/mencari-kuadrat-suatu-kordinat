@@ -1,0 +1,1 @@
+# mencari-kuadrat-suatu-kordinat
